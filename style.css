@@ -1,0 +1,160 @@
+h1{
+    color :orange;
+    border-color:black;
+    background-color: purple;
+   
+
+}
+
+*{
+    color:orange;
+}
+.header{
+    background-color: rgb(118, 6, 146);
+    display:flex;
+    justify-content: space-evenly;
+    padding-right:30px;
+    padding-left:30px;
+    margin-bottom: 30px;
+    margin-left:30px;
+    margin-right:30px;
+    position: relative;
+}
+.about:hover h1{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.about:hover p{
+    opacity:1;
+}
+.about:hover h1{
+    position:relative;
+    /* top:-50%; */
+    opacity:1;
+}
+
+body{
+    background-color: rgb(225,225,225);
+}
+.events{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.events1 p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.events1:hover p{
+    opacity:1;
+}
+.events1:hover img{
+    opacity:0.33;
+}
+.events2 p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.events2:hover p{
+    opacity:1;
+}
+.events2:hover img{
+    opacity:0.33;
+}
+.events3 p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.events3:hover p{
+    opacity:1;
+}
+.events3:hover img{
+    opacity:0.33;
+}.events4 p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.events4:hover p{
+    opacity:1;
+}
+.events4:hover img{
+    opacity:0.33;
+}
+.events5 p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.events5:hover p{
+    opacity:1;
+}
+.events5:hover img{
+    opacity:0.33;
+}
+.events6 p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.events6:hover p{
+    opacity:1;
+}
+.events6:hover img{
+    opacity:0.33;
+}
+.events7 p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.events7:hover p{
+    opacity:1;
+}
+.events7:hover img{
+    opacity:0.33;
+}.events8 p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.events8:hover p{
+    opacity:1;
+}
+.events8:hover img{
+    opacity:0.33;
+}
+.events9 p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.events9:hover p{
+    opacity:1;
+}
+.events9:hover img{
+    opacity:0.33;
+}
+.my p{
+    position:relative;
+    /* top:-50%; */
+    opacity:0;
+}
+.my:hover p{
+    opacity:1;
+}
+.my:hover img{
+    opacity:0.33;
+}
+
+
+
+
+
+
+
